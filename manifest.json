@@ -1,0 +1,6 @@
+{
+  "name": "paipaigou",
+  "display_name": "排排狗",
+  "version": "1.0",
+  "description": "内嵌版排排狗，支持在扩展菜单打开，选中聊天记录快捷排版。"
+}
